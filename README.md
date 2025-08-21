@@ -1,4 +1,3 @@
-Of course. Here is a comprehensive explanation of your project, formatted in Markdown for your `README.md` file. You can copy and paste this directly into your file.
 
 ---
 
