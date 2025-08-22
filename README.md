@@ -1,4 +1,3 @@
-Of course. Here is a comprehensive explanation of your project, formatted in Markdown for your `README.md` file. You can copy and paste this directly into your file.
 
 ---
 
@@ -96,16 +95,4 @@ This project is designed to be easily adaptable. To use your own dataset, follow
 
 1.  **Prepare your CSV file**: Ensure it has clear column headers.
 2.  **Place it in the project directory**.
-3.  **Modify the configuration section** in `train.py`:
 
-```python
-# --- 1. Configuration ---
-FILE_PATH = 'your_data.csv'  # <-- Change this to your file's name
-INPUT_COLS = ['Your_Input_1', 'Your_Input_2'] # <-- Change to your input column names
-OUTPUT_COLS = ['Your_Output_1', 'Your_Output_2'] # <-- Change to your output column names
-
-# Adjust hyperparameters if needed
-LEARNING_RATE = 0.001
-EPOCHS = 300
-# ... etc.
-```
